@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Mr. uv
-- 👀 Excited to exPlore
-- 🌱 Searcch-Find-Go
-- 
-- <--
-uv-arjun/uv-arjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, World! 👋 I'm UV.
+
+Think → Explore → Experiment → Evolve
+
+Not just writing code — understanding how things work.
+
+🔎 Search for answers.  
+🧩 Solve problems.  
+⚙️ Explore technologies.  
+🚀 Turn curiosity into capability.
+
+**Learn continuously. Adapt fearlessly. Build meaningfully.**
